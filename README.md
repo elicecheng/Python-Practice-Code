@@ -6,7 +6,7 @@ Exercises from the site 'practicepython.org'.
 
 [Exercise 2 ](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise2.py)- Determines inf a number is odd or even and if a number is divisible by another.
 
-Exercise 3 - Generates a list from 0 to a number you enter. 
+[Exercise 3](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise3.py) - Generates a list that the numbers in the list is smaller than the number you enter. 
 
 Exercise 4 - Determines all divisible numbers of a number you enter. 
 
