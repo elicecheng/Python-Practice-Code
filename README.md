@@ -1,1 +1,2 @@
-# Python-Practice-Code
+Exercises from the site 'practicepython.org'.
+Exercise 1: Character Input
