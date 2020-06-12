@@ -2,7 +2,7 @@ Practice Python Exercises
 
 Exercises from the site 'practicepython.org'.
 
-Exercise 1 - Calculates what year you turn 100. 
+[Exercise 1 - Calculates what year you turn 100.](Python-Practice-Code/Exercise 1.py)
 
 Exercise 2 - Determines inf a number is odd or even and if a number is divisible by another. 
 
