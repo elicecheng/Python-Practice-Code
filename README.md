@@ -4,7 +4,7 @@ Exercises from the site 'practicepython.org'.
 
 [Exercise 1 - Calculates what year you turn 100.](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise1.py)
 
-Exercise 2 - Determines inf a number is odd or even and if a number is divisible by another. 
+[Exercise 2 - Determines inf a number is odd or even and if a number is divisible by another. ](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise2.py)
 
 Exercise 3 - Generates a list from 0 to a number you enter. 
 
