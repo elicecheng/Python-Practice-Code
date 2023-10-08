@@ -6,11 +6,11 @@ Exercises from the site 'practicepython.org'.
 
 [Exercise 2 ](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise2.py)- Determines if a number is odd or even and if a number is divisible by another.
 
-[Exercise 3](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise3.py) - Generates a list of numbers in the list are smaller than the number you enter. 
+[Exercise 3](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise3.py) - Generates a list of numbers in the list that are smaller than the number you enter. 
 
 [Exercise 4](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise4.py) - Determines all divisible numbers of a number you enter. 
 
-Exercise 5 - Generates 2 random number ranges from 1-99 and combines the common elements. 
+[Exercise 5](https://github.com/elicecheng/Python-Practice-Code/blob/master/Exercise5.py) - Take two lists, and write a program that returns a list with common numbers. 
 
 Exercise 6 - Ask the user for a string and determine if it's a palindrome. 
 
